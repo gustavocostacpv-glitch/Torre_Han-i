@@ -1,2 +1,2 @@
-# Torre_Han-i
+# Torre_Hanoi
 Projeto Aula DS ETEC Machado de Assis
