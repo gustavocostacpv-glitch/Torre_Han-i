@@ -1,2 +1,10 @@
-# Torre_Hanoi
-Projeto Aula DS ETEC Machado de Assis
+ Torre de Hanói - Projeto ETEC
+
+ Projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas na ETEC Machado de Assis.
+
+ Sobre o Projeto
+Este repositório contém uma implementação em Python do quebra-cabeça matemático Torre de Hanói. O objetivo é mover todos os discos de uma haste de origem para uma haste de destino, seguindo as regras clássicas.
+
+Como executar
+Para rodar o projeto localmente, você precisa ter o Python instalado em sua maquina, utilizamos a ferramenta IDLE(Python 3.7 32bits).
+
