@@ -7,6 +7,7 @@ Este repositório contém uma implementação em Python do quebra-cabeça matem�
 
 
 Para rodar o projeto localmente, você precisa ter o Python instalado em sua maquina, utilizamos a ferramenta IDLE(Python 3.7 32bits).
+
 Execução:
    - Abra o ficheiro `hanoi1.py` no IDLE.
    - Pressione `F5` para rodar o codigo executado.
