@@ -1,4 +1,4 @@
- Torre de Hanói - Projeto ETEC
+ Torre de Hanói em Python- Projeto ETEC
 
  Projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas na ETEC Machado de Assis.
 
